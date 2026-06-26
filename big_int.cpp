@@ -1,10 +1,16 @@
-
+#include "big_int.h"
 namespace slk {
-class BigInterger{
-    
+    namespace maht {
+        class BigInterger{
+                        
 
 
-}
 
 
+
+
+        private:
+            std::string m_int;
+        };
+    }
 } // namespace slk
